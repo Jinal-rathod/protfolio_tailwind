@@ -17,8 +17,7 @@
 }
 
 .bg-1 {
-    background-color: rgba(244, 241, 241, 0.5);
-    /* semi-transparent black */
+    background-color: rgba(244, 241, 241, 0.3);
     border-radius: 10px;
 }
 
